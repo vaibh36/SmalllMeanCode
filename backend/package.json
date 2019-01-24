@@ -1,0 +1,13 @@
+{
+  "name": "nodefiles",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "author": "vaibh",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mongoose": "^5.4.5",
+    "normalize-port": "^1.0.0"
+  }
+}
